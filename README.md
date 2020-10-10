@@ -10,7 +10,7 @@ The code base is written in a kaggle notebook, you create a new notebook and sta
 
 There are also no need for feature extraction from all of the audio files to a dataframe, a has already been uploaded so you just need to classify the songs according to the genre by applying the algorithm you like.
 
-If you have some time to kill and don't fear about putting your hands into one of the deepest trench of [MIR](https://musicinformationretrieval.com/genre_recognition.html)(Music Infromation Retreival) you can always got to this [link](https://github.com/Prakhar-FF13/Music-Genre-Classification), and understand how this feature extraction is taking place on the first hand.
+If you have some time to kill and don't fear about putting your hands into one of the deepest trench of [MIR](https://musicinformationretrieval.com/genre_recognition.html) (Music Infromation Retreival) you can always got to this [link](https://github.com/Prakhar-FF13/Music-Genre-Classification), and understand how this feature extraction is taking place on the first hand.
 
 **As the file names says:** 
 > First open the [Exploring-Visualizing.ipynb](https://github.com/shrey-09/Music-Genre-Classification/blob/master/Exploring-Visualizing.ipynb) to learn about the dataset you are working on.
