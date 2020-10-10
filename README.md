@@ -11,7 +11,7 @@ There are also no need for feature extraction from all of the audio files to a d
 If you have some time to kill and don't fear about putting your hands into the deepest trench of MIR(Music Infromation Retreival) you can always got to this [link](https://github.com/Prakhar-FF13/Music-Genre-Classification), and understand how this feature extraction is taking place on the first hand.
 
 As the file names says, 
-> First open the 'Exploring-Visualizing.ipynb', learn about the dataset you are working on.
+> First open the [Exploring-Visualizing.ipynb](https://github.com/shrey-09/Music-Genre-Classification/blob/master/Exploring-Visualizing.ipynb) to learn about the dataset you are working on.
 
 > Then get to know how we are using [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn) to classify the songs.
 
