@@ -12,5 +12,7 @@ If you have some time to kill and don't fear about putting your hands into the d
 
 As the file names says, 
 > First open the 'Exploring-Visualizing.ipynb', learn about the dataset you are working on.
+
 > Then get to know how we are using [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn) to classify the songs.
+
 > And lastly you will understand how [cosine_similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) works for music recommendations.
